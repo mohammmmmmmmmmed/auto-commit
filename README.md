@@ -1,4 +1,4 @@
-[![Auto commit](https://github.com/Ostabo/auto-commit/workflows/Auto%20commit/badge.svg)](https://github.com/Ostabo/auto-commit/actions?query=workflow%3A%22Auto+commit%22)
+[![Auto commit](https://github.com/mohammmmmmmmmmed/auto-commit/workflows/Auto%20commit/badge.svg)](https://github.com/mohammmmmmmmmmed/auto-commit/actions?query=workflow%3A%22Auto+commit%22)
 
 ## Auto commit
 
